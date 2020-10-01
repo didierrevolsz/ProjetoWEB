@@ -1,0 +1,5 @@
+br/com/gwsistemas/transportadora/controlador/TransportadoraControlador.class
+br/com/gwsistemas/transportadora/dao/TransportadoraDAO.class
+br/com/gwsistemas/transportadora/dao/ConnectionFactory.class
+br/com/gwsistemas/transportadora/models/TransportadoraBusinessObject.class
+br/com/gwsistemas/transportadora/models/Transportadora.class
